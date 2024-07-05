@@ -61,7 +61,7 @@ To run the QuickPass System locally or deploy it on a server, follow these steps
 
 1. **Clone the repository:**
 git clone https://github.com/rathichirag1512/QuickPass-PFCS.git
-cd QuickPass-PFCS
+-cd QuickPass-PFCS
 
 2. **Set up the database:**
 - Create a MySQL database named `quickpassdb`.
